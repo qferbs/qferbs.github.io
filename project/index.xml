@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | Quinn Ferbers</title>
+    <link>https://qferbs.github.io/project/</link>
+      <atom:link href="https://qferbs.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 May 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://qferbs.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Projects</title>
+      <link>https://qferbs.github.io/project/</link>
+    </image>
+    
+    <item>
+      <title>Fan Controller</title>
+      <link>https://qferbs.github.io/project/fan-controller/</link>
+      <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://qferbs.github.io/project/fan-controller/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Autonomous Parking Robot Software</title>
+      <link>https://qferbs.github.io/project/parking-robot/</link>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://qferbs.github.io/project/parking-robot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>UBC Aerodesign</title>
+      <link>https://qferbs.github.io/project/ubc-aero/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://qferbs.github.io/project/ubc-aero/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Autonomous Recycling Robot</title>
+      <link>https://qferbs.github.io/project/recycling-robot/</link>
+      <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://qferbs.github.io/project/recycling-robot/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

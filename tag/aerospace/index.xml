@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Aerospace | Quinn Ferbers</title>
+    <link>https://qferbs.github.io/tag/aerospace/</link>
+      <atom:link href="https://qferbs.github.io/tag/aerospace/index.xml" rel="self" type="application/rss+xml" />
+    <description>Aerospace</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://qferbs.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Aerospace</title>
+      <link>https://qferbs.github.io/tag/aerospace/</link>
+    </image>
+    
+    <item>
+      <title>UBC Aerodesign</title>
+      <link>https://qferbs.github.io/project/ubc-aero/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://qferbs.github.io/project/ubc-aero/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

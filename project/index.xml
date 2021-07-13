@@ -17,7 +17,36 @@
       <link>https://qferbs.github.io/project/fan-controller/</link>
       <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
       <guid>https://qferbs.github.io/project/fan-controller/</guid>
-      <description></description>
+      <description>
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-the-full-fan-assembly-the-housing-was-3d-printed&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;
+        &lt;img alt=&#34;The full fan assembly. The housing was 3D printed.&#34; srcset=&#34;
+               /project/fan-controller/window-fan_hu346252964163f473eabd60875f60b2f3_2381440_cd62b0f0c46aae835b49e740dc178feb.jpg 400w,
+               /project/fan-controller/window-fan_hu346252964163f473eabd60875f60b2f3_2381440_bfbc8d49b4bdb3527aba53a8d825b496.jpg 760w,
+               /project/fan-controller/window-fan_hu346252964163f473eabd60875f60b2f3_2381440_1200x1200_fit_q75_lanczos.jpg 1200w&#34;
+               src=&#34;https://qferbs.github.io/project/fan-controller/window-fan_hu346252964163f473eabd60875f60b2f3_2381440_cd62b0f0c46aae835b49e740dc178feb.jpg&#34;
+               width=&#34;760&#34;
+               height=&#34;672&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      The full fan assembly. The housing was 3D printed.
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;p&gt;A window fan that uses a custom PCB running an ATMega chip to control the RPM of 3-pin PC case fans. The voltage across the fans is controlled by a buck converter built solely out of discrete components and controlled by a PID loop to accurately match a set RPM.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -25,7 +54,10 @@
       <link>https://qferbs.github.io/project/parking-robot/</link>
       <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
       <guid>https://qferbs.github.io/project/parking-robot/</guid>
-      <description></description>
+      <description>&lt;p&gt;Developed the control software to drive an autonomous robot which reads and verifies license plates using deep learning as part of a competition. The code was written in Python and used Tensorflow
+as the framework for the neural nets, and the robot was simulated in Gazebo ROS. Imitation learning was used to train the robot to drive along the road, and supervised learning used to identify license plate characters.
+The controller managed to complete a full circuit of the parking lot in 29 seconds, a full 15 seconds faster than any other team in the competition, while successfully reading all but one license plate correctly.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -41,7 +73,36 @@
       <link>https://qferbs.github.io/project/recycling-robot/</link>
       <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
       <guid>https://qferbs.github.io/project/recycling-robot/</guid>
-      <description></description>
+      <description>
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-the-internals-of-the-robot&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;
+        &lt;img alt=&#34;The internals of the robot.&#34; srcset=&#34;
+               /project/recycling-robot/innards_hu65e43b473857e4f6310a89171b147dc3_4847163_232c35e47f27cafdf4b72183f75700fc.jpg 400w,
+               /project/recycling-robot/innards_hu65e43b473857e4f6310a89171b147dc3_4847163_da685ee1a2cc08dab785aa75e8ae878c.jpg 760w,
+               /project/recycling-robot/innards_hu65e43b473857e4f6310a89171b147dc3_4847163_1200x1200_fit_q75_lanczos.jpg 1200w&#34;
+               src=&#34;https://qferbs.github.io/project/recycling-robot/innards_hu65e43b473857e4f6310a89171b147dc3_4847163_232c35e47f27cafdf4b72183f75700fc.jpg&#34;
+               width=&#34;570&#34;
+               height=&#34;760&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      The internals of the robot.
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;p&gt;An autonomous recycling robot capable of detecting and picking up aluminum cans then depositing them in a recycling bin running off of an STM32 microcontroller. Cans are found using a sonar sensor, and the recycling bin is found using an infrared beacon. The robot was constructed at home while following social distancing guidelines, and the claw mechanism for picking up cans was 3D-printed. The robot has a custom-made H-bridge which was soldered by hand.&lt;/p&gt;
+</description>
     </item>
     
   </channel>

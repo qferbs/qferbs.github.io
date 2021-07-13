@@ -17,7 +17,36 @@
       <link>https://qferbs.github.io/project/recycling-robot/</link>
       <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
       <guid>https://qferbs.github.io/project/recycling-robot/</guid>
-      <description></description>
+      <description>
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-the-internals-of-the-robot&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;
+        &lt;img alt=&#34;The internals of the robot.&#34; srcset=&#34;
+               /project/recycling-robot/innards_hu65e43b473857e4f6310a89171b147dc3_4847163_232c35e47f27cafdf4b72183f75700fc.jpg 400w,
+               /project/recycling-robot/innards_hu65e43b473857e4f6310a89171b147dc3_4847163_da685ee1a2cc08dab785aa75e8ae878c.jpg 760w,
+               /project/recycling-robot/innards_hu65e43b473857e4f6310a89171b147dc3_4847163_1200x1200_fit_q75_lanczos.jpg 1200w&#34;
+               src=&#34;https://qferbs.github.io/project/recycling-robot/innards_hu65e43b473857e4f6310a89171b147dc3_4847163_232c35e47f27cafdf4b72183f75700fc.jpg&#34;
+               width=&#34;570&#34;
+               height=&#34;760&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      The internals of the robot.
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;p&gt;An autonomous recycling robot capable of detecting and picking up aluminum cans then depositing them in a recycling bin running off of an STM32 microcontroller. Cans are found using a sonar sensor, and the recycling bin is found using an infrared beacon. The robot was constructed at home while following social distancing guidelines, and the claw mechanism for picking up cans was 3D-printed. The robot has a custom-made H-bridge which was soldered by hand.&lt;/p&gt;
+</description>
     </item>
     
   </channel>

@@ -17,7 +17,10 @@
       <link>https://qferbs.github.io/project/parking-robot/</link>
       <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
       <guid>https://qferbs.github.io/project/parking-robot/</guid>
-      <description></description>
+      <description>&lt;p&gt;Developed the control software to drive an autonomous robot which reads and verifies license plates using deep learning as part of a competition. The code was written in Python and used Tensorflow
+as the framework for the neural nets, and the robot was simulated in Gazebo ROS. Imitation learning was used to train the robot to drive along the road, and supervised learning used to identify license plate characters.
+The controller managed to complete a full circuit of the parking lot in 29 seconds, a full 15 seconds faster than any other team in the competition, while successfully reading all but one license plate correctly.&lt;/p&gt;
+</description>
     </item>
     
   </channel>
